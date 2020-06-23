@@ -6,7 +6,7 @@ let answers = ["It is certain.","It is decidedly so.","Without a doubt.",
 
 window.onload = function() {
  let eight = document.getElementById("eight");
- let answer= document.getElementById("answer");
+ let answer = document.getElementById("answer");
  let eightball = document.getElementById("eight-ball");
  let question = document.getElementById("question");
 
@@ -15,7 +15,7 @@ window.onload = function() {
          alert("enter question");
      } else {
         eight.innerText = "";
-        let num =math.floor(Math.random() * Math.floor(answers.length));
+        let num = Math.floor(Math.random() * Math.floor(answers.length));
         answer.innerText = answers(num);
      }
  })
