@@ -1,0 +1,47 @@
+h1{
+    font-weight: 200;
+    font-size: x-large;
+    
+}
+#content{
+    margin: 0 auto;
+    margin-top: 60px;
+    border: 1px dotted black;
+    width: 600px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+div.answer{
+    background-color:white;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    margin: 25% auto;
+}
+div.eight-ball{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+p#eight{
+    font-size: 40px;
+    margin: 25% auto;
+    color: black;
+}
+p#answer{
+    padding: 25px;
+    color: turquoise;
+    letter-spacing: 2px;
+}
+#question{
+    margin: 20px;
+    padding: 10px;
+    width: 400px;
+}
