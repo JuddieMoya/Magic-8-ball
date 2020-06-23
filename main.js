@@ -16,7 +16,7 @@ window.onload = function() {
      } else {
         eight.innerText = "";
         let num = Math.floor(Math.random() * Math.floor(answers.length));
-        answer.innerText = answers(num);
+        answer.innerText = answers[num];
      }
  })
 }; 
