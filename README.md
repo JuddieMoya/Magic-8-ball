@@ -1,3 +1,4 @@
+![magic 8 ball](https://user-images.githubusercontent.com/64097627/118063776-bedba080-b367-11eb-9bd9-fd2222cbfcdb.png)
 https://juddiemoya.gitlab.io/game-of-chance 
 
 create the magic 8ball with html/CSS
